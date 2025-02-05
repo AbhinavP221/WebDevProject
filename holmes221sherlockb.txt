@@ -1,6 +1,1 @@
-holmes221sherlockb
-VfD0NXBnmAEjfXB7
 
-mongodb+srv://holmes221sherlockb:VfD0NXBnmAEjfXB7@counsel.zvrunke.mongodb.net/?retryWrites=true&w=majority&appName=counsel
-
-mongodb+srv://holmes221sherlockb:<password>@counsel.zvrunke.mongodb.net/
