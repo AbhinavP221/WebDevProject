@@ -2,8 +2,7 @@
 // const http=require('http').Server(app);
 
 // const mongoose=require('mongoose');
-// mongoose.connect("mongodb+srv://holmes221sherlockb:VfD0NXBnmAEjfXB7@counsel.zvrunke.mongodb.net/?retryWrites=true&w=majority&appName=counsel")
-
+//
 
 // const User = require('./models/userModel');
 
@@ -28,7 +27,7 @@ var bodyParser = require("body-parser");
 const mongoose = require('mongoose');
 
 // Replace this connection string with your MongoDB Atlas connection string
-const atlasConnectionString = 'mongodb+srv://holmes221sherlockb:VfD0NXBnmAEjfXB7@counsel.zvrunke.mongodb.net/?retryWrites=true&w=majority&appName=counsel';
+const atlasConnectionString = '';
 
 mongoose.connect(atlasConnectionString, {
     useNewUrlParser: true,
